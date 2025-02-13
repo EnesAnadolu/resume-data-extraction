@@ -1,5 +1,4 @@
 import streamlit as st
-import pyperclip
 import fitz
 import os
 import json
