@@ -50,7 +50,7 @@ class ResumeParser:
         - dob: Date of birth (string)
         - languages: List of languages known (list of strings)
         - location: Current location/residence (string)
-        - experience: List of work experiences (list of dictionaries)
+        - experience: List of all work experiences (list of dictionaries)
           Each dictionary contains:
             - company_name: Name of the company (string)
             - position: Job title (string)
